@@ -8,7 +8,7 @@ object Dependencies {
     val scala30 = "3.0.2"
     val scala31 = "3.1.0"
 
-    val typesafeConfig = "1.4.1"
+    val typesafeConfig = "1.4.2"
 
     val scalaTest = "3.2.10"
     val scalaTestPlusScalaCheck = "3.2.10.0"
